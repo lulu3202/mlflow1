@@ -27,3 +27,6 @@ build/
 *.tmp
 *.temp
 *.bak
+
+# Ignore all mlartifacts directories and their contents
+mlartifacts/
